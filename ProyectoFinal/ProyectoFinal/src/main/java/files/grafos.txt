@@ -1,0 +1,21 @@
+# Inicio de Grafo
+Nombre del grafo: grafo2
+Fecha y hora: 2024-12-02 06:10:07
+Lista de Adyacencia:
+12 -> I E V 4 C 19 
+C -> E 
+E -> 
+F -> J C 4 7 
+19 -> C E 
+I -> F 
+J -> 4 E 
+0 -> 53 12 7 V F 
+S -> 6 4 I 
+4 -> 7 C 19 
+U -> 4 19 0 S 
+6 -> J 7 4 I E 
+V -> J C 7 19 
+7 -> 53 C 19 
+53 -> 19 C 
+# Fin de Grafo 
+

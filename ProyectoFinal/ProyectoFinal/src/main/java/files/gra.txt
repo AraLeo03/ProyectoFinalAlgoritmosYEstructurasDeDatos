@@ -1,0 +1,21 @@
+# Inicio de Grafo
+Nombre del grafo: null
+Fecha y hora: 2024-12-02 07:25:38
+Lista de Adyacencia:
+66 -> 
+89 -> 
+69 -> 
+47 -> 66 
+48 -> 
+E -> 
+49 -> 91 47 
+J -> 
+O -> 
+W -> 
+91 -> 
+92 -> 
+74 -> 49 91 
+85 -> 
+10 -> 
+# Fin de Grafo 
+
